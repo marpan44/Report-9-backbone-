@@ -1,0 +1,47 @@
+[
+    {
+        
+        "Name": "Kraina jutra",
+        "AverageRating": 6.3,
+        "ReleaseYear": 2015,
+        "Url": "http://www.filmweb.pl/film/Kraina+jutra-2015-677512",
+        "Type": "Sci-Fi",
+        "Production": "USA"
+    },
+    {
+        
+        "Name": "Plemię",
+        "AverageRating": 6.9,
+        "ReleaseYear": 2014,
+        "Url": "http://www.filmweb.pl/film/Plemi%C4%99-2014-709335",
+        "Type": "Drama",
+        "Production": "Holland"
+    },
+    {
+        
+        "Name": "Rozumiemy się bez słów",
+        "AverageRating": 7.6,
+        "ReleaseYear": 2015,
+        "Url": "http://www.filmweb.pl/film/Rozumiemy+si%C4%99+bez+s%C5%82%C3%B3w-2014-710638",
+        "Type": "Comedy",
+        "Production": "France"
+    },
+    {
+        
+        "Name": "Eden",
+        "AverageRating": 5.8,
+        "ReleaseYear": 2014,
+        "Url": "http://www.filmweb.pl/film/Eden-2014-700913",
+        "Type": "Comedy",
+        "Production": "France"
+    },
+    {
+        
+        "Name": "Prestige",
+        "AverageRating": 8.1,
+        "ReleaseYear": 2006,
+        "Url": "http://www.filmweb.pl/Prestiz",
+        "Type": "Drama",
+        "Production": "USA"
+    }
+ ]   
